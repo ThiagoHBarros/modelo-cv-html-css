@@ -1,0 +1,60 @@
+img
+{
+    
+    width: 250px;
+    height: 150px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.header-title
+{
+    background-color: burlywood;
+   font-style: italic ;
+   text-align: center;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+
+body 
+{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px 20px 80px 20px;
+    border: 1px solid #000;
+    
+
+}
+.titulo-cv
+{
+    
+    background-color: burlywood;
+   text-align: center;
+   text-decoration: underline;
+   font-size: 30px;
+   font-style: oblique;
+   font-family:'Times New Roman', Times, serif;
+   
+   
+}
+.info-cv
+{
+    
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+
+footer
+{
+    background-color: burlywood;
+    text-align: center;
+    bottom: 0px;
+    width: 45%;
+    padding: 5px 5px 5px 5px;
+    position: fixed;
+}
